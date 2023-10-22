@@ -66,8 +66,8 @@ Voir https://fr.wikipedia.org/wiki/AT%26T_(assembleur)
 
 ```
 cd existing_repo
-git remote add origin https://oogit.oodrive.net/architecture/asmandgo.git
+git remote add origin https://github.com/jeandi7/asmandgo
 git branch -M main
 git push -uf origin main
-```
 
+```
